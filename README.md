@@ -20,12 +20,4 @@ python app.py
 
 Open `http://localhost:5000`.
 
-## Deploy
-
-Use a Python service with this start command:
-
-```text
-gunicorn app:app
-```
-
-Set `GEMINI_API_KEY` as a platform environment variable. Do not commit `.env` or paste the key into frontend code. `GEMINI_MODEL` is optional and defaults to `gemini-3.6-flash`.
+ 
