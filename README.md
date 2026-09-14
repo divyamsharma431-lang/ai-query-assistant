@@ -19,5 +19,8 @@ python app.py
 ```
 
 Open `http://localhost:5000`.
+#the link of this chat buddy is https://ai-query-assistant-esvu.vercel.app/
+
+
 
  
